@@ -44,7 +44,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 #### Source
 
-src/ConvertExample
+[src/ConverterExample](https://github.com/bytewiz/HackYourFuture/tree/master/src/ConverterExample)
 
 #### Purpose
 
@@ -54,6 +54,6 @@ Illustrating how to deal with lifting up state to the parent component
 
 #### Source
 
-src/ContextExample
+[src/ContextExample](https://github.com/bytewiz/HackYourFuture/tree/master/src/ContextExample)
 
 Illutrating the use of react context with relevant examples of theming and language selector
